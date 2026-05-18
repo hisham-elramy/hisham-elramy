@@ -69,12 +69,3 @@ I care about writing code that is maintainable, secure, and well-architected —
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hisham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HishamElramy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HishamElramy&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
