@@ -70,18 +70,6 @@ I care about writing code that is maintainable, secure, and well-architected —
 
 ---
 
-## 🚀 Projects
-
-> Projects I've built to apply what I've learned — each one targets a specific concept or domain.
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [**Project Name**](https://github.com/HishamElramy) | Brief description of what it does and what problem it solves | ASP.NET Core, EF Core, SQL Server |
-| 🔗 [**Project Name**](https://github.com/HishamElramy) | Brief description of what it does and what problem it solves | C#, WinForms, ADO.NET |
-| 🔗 [**Project Name**](https://github.com/HishamElramy) | Brief description of what it does and what problem it solves | Clean Architecture, JWT, MySQL |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
